@@ -1,0 +1,15 @@
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\bin\Debug\net6.0\RebusApplication.exe
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\bin\Debug\net6.0\RebusApplication.deps.json
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\bin\Debug\net6.0\RebusApplication.runtimeconfig.json
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\bin\Debug\net6.0\RebusApplication.dll
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\bin\Debug\net6.0\RebusApplication.pdb
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\obj\Debug\net6.0\RebusApplication.csproj.AssemblyReference.cache
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\obj\Debug\net6.0\RebusApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\obj\Debug\net6.0\RebusApplication.AssemblyInfoInputs.cache
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\obj\Debug\net6.0\RebusApplication.AssemblyInfo.cs
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\obj\Debug\net6.0\RebusApplication.csproj.CoreCompileInputs.cache
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\obj\Debug\net6.0\RebusApplication.dll
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\obj\Debug\net6.0\refint\RebusApplication.dll
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\obj\Debug\net6.0\RebusApplication.pdb
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\obj\Debug\net6.0\RebusApplication.genruntimeconfig.cache
+C:\Users\AJ\OneDrive\Documents\Projects\RebusApplication\RebusApplication\obj\Debug\net6.0\ref\RebusApplication.dll
