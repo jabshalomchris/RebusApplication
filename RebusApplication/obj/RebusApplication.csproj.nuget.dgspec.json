@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Rebus": {
+              "target": "Package",
+              "version": "[8.4.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

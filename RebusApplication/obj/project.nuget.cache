@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "9ijKI7UhG5Hl5o63k5iuT1KzQPQ8EMUiwCknMypEpYqhbEKY5yH1YS4jcqJb/uIw2Mde8xLXotT4OgIXjkxePw==",
+  "dgSpecHash": "aYrp/eRc6ph6CUzsps4kwecEgrs09FIR4Ngm3Mq0fJZwGWIoXTA+uVaH147rW0VfW71pvCljGx1Yh3Zza6zq9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\AJ\\OneDrive\\Documents\\Projects\\RebusApplication\\RebusApplication\\RebusApplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AJ\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\AJ\\.nuget\\packages\\rebus\\8.4.2\\rebus.8.4.2.nupkg.sha512"
+  ],
   "logs": []
 }
